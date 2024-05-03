@@ -9,4 +9,4 @@ tags: [test]
 author: Scott McKean
 ---
 
-Hello World
+Test of commit hooks
