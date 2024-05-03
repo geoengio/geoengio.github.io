@@ -21,8 +21,8 @@ author: Some Person
 
 navbar-links:
   About: "about"
-  Blog:
-    - : "https://beautifuljekyll.com"
+  Posts:
+    - Test: "_posts/2024-05-01-test/test"
   Resources:
     - Markdown: "https://www.markdowntutorial.com"
   Author's home: "https://github.com/ScottHMcKean/"
