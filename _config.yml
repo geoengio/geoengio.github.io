@@ -22,7 +22,7 @@ author: Geo Eng I/O
 navbar-links:
   About: "about"
   Posts:
-    - Test: _posts/2024-05-01-test/test
+    - Test: /_posts/2024-05-01-test/test.md
   Resources:
     - Markdown: "https://www.markdowntutorial.com"
 
